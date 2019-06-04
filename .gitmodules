@@ -1,0 +1,6 @@
+[submodule "Listing-Frontend"]
+	path = Listing-Frontend
+	url = https://github.com/ugurozturk/Listing-Frontend.git
+[submodule "Listing-Backend"]
+	path = Listing-Backend
+	url = https://github.com/ugurozturk/Listing-Backend.git
